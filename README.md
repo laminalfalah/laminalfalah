@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### Contacts Me
 <p>
+  <a href="https://laminalfalah.github.io/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" height="20"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/laminalfalah" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" height="20" /></a>&nbsp;
   <a href="https://twitter.com/laminalfalah" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" height="20" /></a>&nbsp;
   <a href="https://www.facebook.com/laminalfalah" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" height="20" /></a>&nbsp;
