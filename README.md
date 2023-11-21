@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Wakatime Stats
-[![Laminal's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=laminalfalah&layout=compact&theme=dark&show_icons=true)](https://github.com/laminal-falah/laminal-falah)
+[![Laminal's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=laminalfalah&layout=compact&theme=dark&show_icons=true)](https://github.com/laminalfalah/laminalfalah)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
